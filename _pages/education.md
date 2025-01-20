@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Education"
 permalink: /education/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 
-======
+
 * B.S. in Economics, Pontificia Universidad Católica del Perú
   * 2022 - 2027 (expected)
 
