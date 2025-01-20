@@ -34,15 +34,18 @@ Awards & Recognitions
 
 Skills
 ======
-* Excel (VBA, Macros)
-* R (tidyverse)
+* Excel (Advanced)
+* R (Intermdiate)
 * Python (Intermediate)
 * Power BI 
 * SQL
+* LaTex (Advanced)
 
 Additional Training 
 ======
 * Qlab Summer School: 2025
+* Introduction to Mathematical Analysis ( Faculty of Sciences and Engineering, PUCP)
+  * Prof. Jesús Zapata Samanez ( Director of the Mathematics Program)
 
 
 
