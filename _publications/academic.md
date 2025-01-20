@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts  
 excerpt: 'I developed this notes with the colaboration of Marcelo Gallardo (PUCP). It contains a basic and introductory proof of the Brouwer Fixed Point Theorem under its specific application in general equilibrium theory (GE). Furthemore, we focus on showing the existence of a unique equilibrium under certain conditions and assumptions. The purpose was to present to the interested student the mathematical architecture that supports GE'. 
 paperurl: 'http://supgquijano.github.io/files/equilibrio.pdf'
-date: 2024-08-19
+date: 2024-08-12
 ---
 
 
