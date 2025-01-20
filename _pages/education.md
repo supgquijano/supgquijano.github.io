@@ -46,7 +46,13 @@ Additional Training
 * Qlab Summer School: 2025
 * Introduction to Mathematical Analysis ( Faculty of Sciences and Engineering, PUCP)
   * Prof. Jesús Zapata Samanez ( Director of the Mathematics Program)
+* Jóvenes Talentos Workshop Apoyo Consultoría 
 
+ Languages
+====== 
+* Spanish (Native)
+* English (Advanced)
+  * Advanced level completed at Idiomas PUCP.
 
 
 
