@@ -11,7 +11,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
 ======
 * B.S. in Economics, Pontificia Universidad Católica del Perú
   * 2022 - 2027 (expected)
